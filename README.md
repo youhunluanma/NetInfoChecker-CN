@@ -3,38 +3,24 @@
 > [!CAUTION]
 >
 > 这是一个易语言程序, 可能被部分杀毒软件误报；本软件只为中国用户设计.
+> 
 > This program is made with E. It's only design for CN user 
 
-## 截图
+## 功能介绍
 
-主界面
+![功能预览](https://github.com/user-attachments/assets/a5b42e8e-674d-42c1-8080-b9950201fd89)
 
-![image](https://github.com/user-attachments/assets/e4b4542c-4235-4416-a520-449a7728205e)
+## 使用手册
 
-更新日志
+![查询器使用手册_01](https://github.com/user-attachments/assets/7ce19cc9-6429-4184-8628-f75483e26637)
 
-![image](https://github.com/user-attachments/assets/11ae5b94-1e22-490a-8a3a-d4366d397e5f)
+![查询器使用手册_02](https://github.com/user-attachments/assets/39c7e560-4508-4c82-9e70-69f1f20c92ba)
 
-NAT类型测试
+![查询器使用手册_03](https://github.com/user-attachments/assets/68425cb9-b3ad-4a59-8e29-10493308315c)
 
-![image](https://github.com/user-attachments/assets/948dde3a-b9f3-4e1d-ad25-f274cc1afc62)
+![查询器使用手册_04](https://github.com/user-attachments/assets/c1d4d2d4-1f91-4c4f-9864-ab434aba9743)
 
-IPERF小工具
-
-![image](https://github.com/user-attachments/assets/777d5c14-8ad0-4964-9e4c-003d26f9ff43)
-
-配置检测
-
-![image](https://github.com/user-attachments/assets/107fd405-f303-4014-b113-bec267b24c12)
-
-手动查询IP/MAC地址
-
-![image](https://github.com/user-attachments/assets/6fe4ce7e-cecf-4080-8bd9-d366a44c066a)
-
-IPV6有效期查询
-
-![image](https://github.com/user-attachments/assets/62bc7a9b-0cfa-4c1b-8420-04eea1fc9121)
-
+![查询器使用手册_05](https://github.com/user-attachments/assets/8033aaab-dd16-4816-9db5-cd8a760abad7)
 
 ## 简介
 
