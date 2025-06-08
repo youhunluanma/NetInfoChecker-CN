@@ -11,19 +11,21 @@
 
 ## 功能介绍
 
-![查询器使用手册_02](https://github.com/user-attachments/assets/03ea8041-89e6-48cf-a9b2-aeb120316ccc)
+![查询器使用手册_02](https://github.com/user-attachments/assets/4920bc9c-ffb6-4380-91e3-59c8a12018f6)
+
 
 ## 使用手册
 
-![查询器使用手册_01](https://github.com/user-attachments/assets/c1e926b9-287c-4c26-8fa8-fbc895980423)
+![查询器使用手册_01](https://github.com/user-attachments/assets/8cdfd4fb-7d7d-4f32-bf80-a37fb5289748)
 
-![查询器使用手册_03](https://github.com/user-attachments/assets/6c79511e-bb22-4011-b670-b57f124c4cd1)
+![查询器使用手册_03](https://github.com/user-attachments/assets/b39fff8e-0d9e-4cb8-a125-54f1bb1c87db)
 
-![查询器使用手册_04](https://github.com/user-attachments/assets/9ffe603d-5e64-4084-80c1-abf5a2491e8f)
+![查询器使用手册_04](https://github.com/user-attachments/assets/0f27e898-503b-4406-b946-4f23ebf23e40)
 
-![查询器使用手册_05](https://github.com/user-attachments/assets/616a7623-1303-4686-b928-882d4e18f02c)
+![查询器使用手册_05](https://github.com/user-attachments/assets/64cd8105-0ed0-4203-a271-b4b41c96e556)
 
-![查询器使用手册_06](https://github.com/user-attachments/assets/2f1be7d1-222d-40d5-b8c2-51d2a558205d)
+![查询器使用手册_06](https://github.com/user-attachments/assets/366cbd96-c73f-4e35-9255-a1cde824e3cb)
+
 
 ## 简介
 
@@ -31,13 +33,17 @@
 
 - 快速查中国IP、走代理IP
 
-- 三大+教育+测漏多出口测试
+- 三大+教育+测漏+国内外多出口测试
 
 - UDP测试
 
 - 手动查IP/MAC/剪贴板
 
+- 快速修改本机IPV4地址
+
 - 本机所有网卡及IP/DNS
+
+- DNS劫持测试
 
 - IPV6有效期
 
