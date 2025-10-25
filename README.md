@@ -1,6 +1,5 @@
 
-![Yumeyo_2025-08-18_04-50-25_看图王](https://github.com/user-attachments/assets/480ccf79-13e1-4d55-a917-3a69ad33eedd)
-
+<img width="3543" height="1051" alt="查询器使用手册_14_看图王" src="https://github.com/user-attachments/assets/7f40a4c9-525c-4c56-b4cf-4a951f0f44b6" />
 
 # 网络综合查询器 NetInfoChecker 
 
@@ -26,6 +25,8 @@
 ## 简介
 
    《网络综合查询器》由夢酱设计, 内置多个接口, 支持快速查国内出口IP, 国外出口/走代理IP, 三大+教育+双栈+测漏 多出口测试, UDP测试, 手动查IP/MAC/剪贴板, 本机所有网卡及IP/DNS, IPV6有效期, IP查纯, 记录/读取外网IP, 查IP在记录中出现次数, 快速Ping/Tracert/长Ping, 一键运行ipconfig/release/renew/flushdns, RFC3489/5780NAT测试, CS完美平台延迟测试(Ping)/全球网测骨干节点(北上广成武)延迟测试, IPERF测速工具, 本机硬件检测, 快速跳转控制面板/常用网站, 自由查询, 悬浮信息时间显示, WakeOnLan等功能.
+
+   欢迎加入與夢的小群吹水/下载最新版查询器/使用手册PDF/意见建议反馈/帮助开发：<img width="634" height="438" alt="Yumeyo_2025-10-25_22-17-33" src="https://github.com/user-attachments/assets/d9c9c0fa-8ef1-4c2f-a3b5-e836b786c70a" />
 
 ## 使用
 
