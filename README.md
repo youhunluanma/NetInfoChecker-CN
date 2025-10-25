@@ -8,15 +8,21 @@
 > 
 > This program is made with E. It's only design for CN user
 
-<img width="3543" height="2362" alt="查询器使用手册_08原图" src="https://github.com/user-attachments/assets/bd91e0f8-3032-4cde-a407-162e4419c904" />
+## 使用
 
-## 简介
+**下载release，使用单文件绿色版（自动识别为绿色启动模式，适合公用电脑临时使用）**
 
-   《网络综合查询器》由夢酱设计, 内置多个接口, 支持快速查国内出口IP, 国外出口/走代理IP, 三大+教育+双栈+测漏 多出口测试, UDP测试, 手动查IP/MAC/剪贴板, 本机所有网卡及IP/DNS, IPV6有效期, IP查纯, 记录/读取外网IP, 查IP在记录中出现次数, 快速Ping/Tracert/长Ping, 一键运行ipconfig/release/renew/flushdns, RFC3489/5780NAT测试, CS完美平台延迟测试(Ping)/全球网测骨干节点(北上广成武)延迟测试, IPERF测速工具, 本机硬件检测, 快速跳转控制面板/常用网站, 自由查询, 悬浮信息时间显示, WakeOnLan等功能.
+release为现行版本WinRAR自解压格式，打开将自动解压到%Temp%目录运行，不支持写注册表相关功能
 
-   欢迎加入與夢的小群吹水/下载最新版查询器/使用手册PDF/意见建议反馈/帮助开发：<img width="634" height="438" alt="Yumeyo_2025-10-25_22-17-33" src="https://github.com/user-attachments/assets/d9c9c0fa-8ef1-4c2f-a3b5-e836b786c70a" />
-   
+**解压后可使用本地免安装版（适合个人电脑长期使用）**
+
+和其他免安装绿色版软件一样，解压release的包以后，手动放置于非Temp目录，双击“网络综合查询器.exe”运行，可正常使用所有保存配置等功能
+
 ## 功能介绍
+
+   网络综合查询器由夢酱设计, 内置多个接口, 支持快速查国内出口IP, 国外出口/走代理IP, 三大+教育+双栈+测漏 多出口测试, UDP测试, 手动查IP/MAC/剪贴板, 本机所有网卡及IP/DNS, IPV6有效期, IP查纯, 记录/读取外网IP, 查IP在记录中出现次数, 快速Ping/Tracert/长Ping, 一键运行ipconfig/release/renew/flushdns, RFC3489/5780NAT测试, CS完美平台延迟测试(Ping)/全球网测骨干节点(北上广成武)延迟测试, IPERF测速工具, 本机硬件检测, 快速跳转控制面板/常用网站, 自由查询, 悬浮信息时间显示, WakeOnLan等功能.
+   
+<img width="3543" height="2362" alt="查询器使用手册_08原图" src="https://github.com/user-attachments/assets/bd91e0f8-3032-4cde-a407-162e4419c904" />
 
 <img width="3543" height="2362" alt="查询器使用手册_09原图" src="https://github.com/user-attachments/assets/2e0e46a6-358e-4050-9b11-ce3f5b38ddfb" />
 
@@ -26,16 +32,15 @@
 <img width="3543" height="2362" alt="查询器使用手册_12原图" src="https://github.com/user-attachments/assets/82166074-9094-4fd5-8c56-ef0cb0f7eb64" />
 <img width="3543" height="2362" alt="查询器使用手册_13原图" src="https://github.com/user-attachments/assets/5c409191-da2e-4571-8347-a98b4956f061" />
 
+## 用户反馈计划
 
+![查询器截图备份指南_01](https://github.com/user-attachments/assets/0f3b3411-e5a0-4d67-873a-69ca05a664b9)
 
-## 使用
-
-下载release，使用单文件绿色版（自解压文件，打开自动解压到Temp目录运行，不支持写注册表相关功能，适合公用电脑临时使用）
-
-解压下载的exe使用免安装版（手动放置于非Temp目录，可正常使用保存配置等功能，适合个人电脑长期使用）
 
 ## 分支项目
 
+ 欢迎加入與夢的小群吹水/下载最新版查询器/使用手册PDF/意见建议反馈/帮助开发：967446402
+ 
 [https://github.com/akass-org/Army_Knife](https://github.com/akass-org/Army_Knife)
 
 ## 感谢
