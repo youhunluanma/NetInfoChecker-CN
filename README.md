@@ -1,4 +1,5 @@
-<img width="3543" height="1051" alt="查询器使用手册_14_看图王" src="https://github.com/user-attachments/assets/7f40a4c9-525c-4c56-b4cf-4a951f0f44b6" />
+<img width="3543" height="1051" alt="查询器使用手册_14_2" src="https://github.com/user-attachments/assets/d1c5b2b5-8cd3-4bae-8ac9-9d748e4160b0" />
+
 
 # 网络综合查询器 NetInfoChecker 
 
